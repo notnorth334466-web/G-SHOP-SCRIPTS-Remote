@@ -2,7 +2,7 @@ local MainModule = {}
 	
 
 local LICENSE_DATABASE = {
-	["GSHOP-Key-PFj2i3fWvk"] = "notnorth334466-web",
+	["GSHOP-Key-PFj2i3fWvk"] = "wwrytp677",
 	["GSHOP-Fj348gwifT"] = "Username1",
 	["GSHOP-Fk238fhDS3"] = "Username2",
 }
