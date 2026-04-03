@@ -4,7 +4,7 @@ local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Players = game:GetService("Players")
 
 local ALLOWED_OWNERS = {
-	["wwrytp677"] = true,
+	["wwrytp677V2"] = true,
 	["Username2"] = true,
 }
 
